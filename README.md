@@ -1,6 +1,6 @@
 Replaces your New Tab page with maps of interesting places.
 
-![Screenshot](beautiful-map-tab/blob/master/screenshot.png?raw=true "Screenshot")
+![Screenshot](/screenshot.png?raw=true "Screenshot")
 
 ### Chrome store
 
