@@ -1,5 +1,5 @@
 {
-  "name": "OpenStreetMap",
+  "name": "Minimalistic tab with OpenStreetMap",
   "description" : "Minimalistic New tab page that displays interesting places on map.",
   "version": "0.1",
   "icons": {
@@ -16,5 +16,5 @@
 	"http://www.openstreetmap.org/",
 	"http://cdn.leafletjs.com"
   ],
-  "manifest_version": 1
+  "manifest_version": 2
 }
