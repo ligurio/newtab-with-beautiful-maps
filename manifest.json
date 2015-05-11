@@ -12,7 +12,6 @@
     "newtab": "home.html"
   },
   "permissions": [
-    "bookmarks",
 	"http://www.openstreetmap.org/",
 	"http://cdn.leafletjs.com"
   ],
