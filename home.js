@@ -11,7 +11,7 @@ var places = [
 	[56.3103, 38.1370, 12],
 	[56.3290, 43.9841, 12],
 	[55.8671, 37.8263, 12]
-    ]
+	]
 var r = Math.floor(Math.random()*(places.length-1));
 var map = L.map('map').setView([places[r][0], places[r][1]], places[r][2]);
 mapLink =

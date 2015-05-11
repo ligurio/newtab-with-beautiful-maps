@@ -1,7 +1,7 @@
 {
-  "name": "Minimalistic tab with OpenStreetMap",
+  "name": "Minimalistic new tab with beautiful maps",
   "description" : "Minimalistic New tab page that displays interesting places on map.",
-  "version": "0.2",
+  "version": "0.3",
   "icons": {
     "128": "icon_128.png",
     "64": "icon_64.png",
