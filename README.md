@@ -1,6 +1,6 @@
 Replaces your New Tab page with maps of interesting places.
 
-!(https://github.com/ligurio/beautiful-map-tab/blob/master/screenshot.png "Screenshot")
+![Screenshot](beautiful-map-tab/blob/master/screenshot.png?raw=true "Screenshot")
 
 ### Chrome store
 
